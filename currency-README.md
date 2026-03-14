@@ -4,7 +4,7 @@ A fast, clean currency converter focused on **Central Asian currencies** — Taj
 
 Built with pure HTML, CSS, JavaScript, and a Python script for fetching live rates.
 
-🌐 **[Live Demo →](https://your-username.github.io/currency-converter)**
+🌐 **[Live Demo →](https://aslisho.github.io/currency-converter)**
 
 ---
 
@@ -92,4 +92,4 @@ currency-converter/
 
 MIT — free to use, modify, and distribute.
 
-*Built by [your-name] · Dushanbe, Tajikistan*
+*Built by [Aslisho] · Dushanbe, Tajikistan*
