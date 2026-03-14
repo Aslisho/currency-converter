@@ -1,0 +1,18 @@
+{
+  "USD": 1.0,
+  "TJS": 10.92,
+  "RUB": 90.50,
+  "UZS": 12650.0,
+  "KZT": 450.0,
+  "AFN": 71.50,
+  "AZN": 1.70,
+  "EUR": 0.92,
+  "GBP": 0.79,
+  "TRY": 32.50,
+  "AED": 3.67,
+  "SAR": 3.75,
+  "INR": 83.50,
+  "CNY": 7.24,
+  "JPY": 151.50,
+  "_updated": "Fallback rates — run fetch_rates.py for live data"
+}
